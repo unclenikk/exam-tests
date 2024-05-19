@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  padding: 0px;
+}
+
+body {
+  background-color: rgb(75, 74, 74);
+  display: block;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-image: url(images/aesthetic-landscape-dark-forest-l1c048nwcf3sh04u.webp);
+}
+
+a {
+  text-decoration: none;
+}
+
+
+h1 {
+  display: block;
+  color: rgb(187, 92, 187);
+  border: 2px solid rgb(61, 60, 60);
+  padding: 40px;
+  font-size: 30px;
+  text-align: center;
+}
